@@ -1,0 +1,9 @@
+Install the Mighty core library from this link: https://github.com/MCUdude/MightyCore
+Add library to Arduino Libraries
+Connect Arduino UNO To computer
+Ensure proper connections between Arduino and IC as per circuit diagram provided
+Open Simple Blink example sketch
+Now go to to: Tools > Mighty Core > Atmega 16
+Select Programmer as : Arduino as ISP
+Go to Sketch > Upload using Programmer
+
