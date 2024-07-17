@@ -1,4 +1,4 @@
-Install the Mighty core library from Here:  [Mighty Core](https://github.com/MCUdude/MightyCore/)
+Install the Mighty core library from Here: https://github.com/MCUdude/MightyCore
 Add library to Arduino Libraries
 Connect Arduino UNO To computer
 Ensure proper connections between Arduino and IC as per circuit diagram provided
