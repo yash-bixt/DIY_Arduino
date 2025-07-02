@@ -14,16 +14,17 @@ Peripheral interfacing (e.g., LED, ADC, buttons)
 
 It’s crafted to help you deeply understand how Arduino works at the MCU level.
 
-Key Features
-Bare-metal MCU setup using Atmega16A (no Arduino bootloader required)
+> Key Features:
 
-External crystal oscillator for precise clocking
+1. Bare-metal MCU setup using Atmega16A (no Arduino bootloader required)
 
-5 V power regulation for stable MCU operation
+2. External crystal oscillator for precise clocking
 
-Arduino-style pin layout, including digital I/O, ADC, PWM, and power pins
+3. 5 V power regulation for stable MCU operation
 
-Firmware programming options:
+4. Arduino-style pin layout, including digital I/O, ADC, PWM, and power pins
+
+> Firmware programming options:
 
 C via avr-gcc and AVRDUDE
 
