@@ -1,7 +1,8 @@
-#DIY Arduino (Atmega16A-Based)
+# DIY Arduino (Atmega16A-Based)
+
 A guide to building your own Arduino-compatible board from scratch using the Atmega16A microcontroller.
 
-#Project Overview
+# Project Overview
 
 This project demonstrates how to create a custom Arduino-style development board powered by the Atmega16A microcontroller. It walks through:
 
